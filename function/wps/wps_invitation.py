@@ -26,7 +26,7 @@ from sendNotify import *
 # requests.packages.urllib3.disable_warnings(InsecurePlatformWarning)
 
 # 初始化信息
-Wps_id = ''
+Wps_id = 'V02Sw5CQpjn5SBQR8me9PuiaShkta9U00a67bd3e003ef7a05d'
 sendNotify = sendNotify()
 scf_environment = 0  # 本地环境运行选择0，scf云函数环境运行选择1
 
